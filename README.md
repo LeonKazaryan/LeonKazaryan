@@ -33,36 +33,6 @@ Nov 2025 – Present
 
 ---
 
-## 🚀 Projects
-
-### Bailanysta
-Social networking web application inspired by Twitter.
-
-Features:
-- posts and feed system
-- likes and subscriptions
-- dark mode
-- modern responsive UI
-
-Tech stack:
-React · TypeScript · REST APIs
-
----
-
-### LeonGram
-Telegram-inspired messaging platform with AI assistant.
-
-Tech stack:
-React · FastAPI · AI integrations
-
----
-
-### ChatHut
-Web client for multiple messengers (Telegram / WhatsApp) with AI assistant features.
-
-Built during **nFactorial Incubator** and presented at Demo Day.
-
----
 
 ## 🛠 Tech Stack
 
@@ -105,15 +75,9 @@ Russian
 
 ---
 
-## 🏆 Achievements
-
-- **Altyn Belgi** — highest academic distinction in Kazakhstan (GPA 5.0 in school)
-- **nFactorial Hackathon 2025 — 3rd place** (Chevron × Satpayev University × nFactorial)
-
----
-
 ## 📫 Contact
 
 Email: leon.kazaryan@nu.edu.kz  
-LinkedIn: https://linkedin.com/in/leonkazaryan  
+LinkedIn: https://linkedin.com/in/leonkazaryan
+Telegram: https://t.me/leooo0oo
 GitHub: https://github.com/LeonKazaryan
