@@ -1,83 +1,96 @@
-# Hi, I'm Leon 👋
+# Leon Kazaryan
 
-CS student at Nazarbayev University and full-stack developer focused on building modern web applications.
-
-I enjoy creating real products, experimenting with AI-assisted development, and working across the full stack — from backend logic and APIs to frontend interfaces.
-
----
-
-## 🎓 Education
-
-**Nazarbayev University** — BSc in Computer Science  
-2023 – 2027  
-Top 20% of the class by GPA · State Grant holder
-
-**nFactorial Incubator (Chevron Grant)**  
-10-week startup incubator program  
-Built a full-stack AI web application in a team environment and won **3rd place at the hackathon**.
-
-**ITStep Academy**  
-Front-End Development Course
+Full-stack developer and Computer Science student at **Nazarbayev University**.  
+I build modern web and mobile applications and enjoy experimenting with **AI-assisted development**.
 
 ---
 
-## 💼 Experience
+## About Me
+
+- CS student at **Nazarbayev University (2023–2027)**
+- **Top 20% of the class** · State Grant holder
+- **Front-End & Mobile Developer at Salesautomators**
+- React / TypeScript / React Native developer
+- Hackathon **3rd place — nFactorial Incubator**
+
+---
+
+## Experience
 
 **Front-End & Mobile Developer — Salesautomators (New York, USA)**  
-Nov 2025 – Present
+Nov 2025 — Present
 
-- Developing production web and mobile applications using **React, React Native and TypeScript**
-- Implementing telephony and communication features with **Twilio API, JustCall, Zoiper**
-- Building scalable UI with **Material UI and reusable component architecture**
-- Working in agile team environment (ClickUp, sprint planning, collaboration with backend engineers and product managers)
+- Developing production web & mobile apps with **React, React Native, TypeScript**
+- Implementing communication features using **Twilio API, JustCall, Zoiper**
+- Building scalable UI with **Material UI** and reusable component architecture
+- Working in agile environment (ClickUp, sprint planning, collaboration with backend engineers)
 
 ---
 
+## Selected Projects
 
-## 🛠 Tech Stack
+### Bailanysta
+Social networking web application inspired by Twitter.
 
-**Languages**
+Features  
+- posts and feed system  
+- likes and subscriptions  
+- dark mode  
+- modern responsive UI  
 
+Tech: **React · TypeScript · REST APIs**
+
+---
+
+### LeonGram
+Telegram-inspired messaging application with AI assistant.
+
+Tech: **React · FastAPI · AI integrations**
+
+---
+
+### ChatHut
+Web client for multiple messengers (Telegram / WhatsApp) with AI assistant.
+
+Built during **nFactorial Incubator** and presented at Demo Day.
+
+---
+
+## Tech Stack
+
+**Languages**  
 TypeScript · JavaScript · Python · Java · C · C++
 
-**Frontend**
+**Frontend**  
+React · Material UI · Feature-Sliced Design
 
-React  
-Material UI  
-Feature-Sliced Design (FSD)
+**Mobile**  
+React Native · Expo · Push Notifications
 
-**Mobile**
+**Backend & APIs**  
+REST APIs · Webhooks · CRM integrations (AmoCRM, Pipedrive, HubSpot)
 
-React Native  
-Expo  
-Push Notifications
-
-**Backend & APIs**
-
-REST APIs  
-Webhooks  
-CRM integrations (AmoCRM, Pipedrive, HubSpot)
-
-**Tools**
-
-Git  
-Docker  
-Twilio API  
-ClickUp  
-Google Workspace
+**Tools**  
+Git · Docker · Twilio · ClickUp · Google Workspace
 
 ---
 
-## 🌍 Languages
+## Achievements
 
-English  
-Russian
+- **nFactorial Hackathon — 3rd place** (Chevron × Satpayev University × nFactorial)
+- **Altyn Belgi** — highest academic distinction in Kazakhstan
 
 ---
 
-## 📫 Contact
+## Languages
+
+English · Russian
+
+---
+
+## Contact
 
 Email: leon.kazaryan@nu.edu.kz  
-LinkedIn: https://linkedin.com/in/leonkazaryan
-Telegram: https://t.me/leooo0oo
+LinkedIn: https://linkedin.com/in/leonkazaryan  
+Telegram: https://t.me/leooo0oo  
 GitHub: https://github.com/LeonKazaryan
