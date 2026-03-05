@@ -27,35 +27,6 @@ Nov 2025 — Present
 
 ---
 
-## Selected Projects
-
-### Bailanysta
-Social networking web application inspired by Twitter.
-
-Features  
-- posts and feed system  
-- likes and subscriptions  
-- dark mode  
-- modern responsive UI  
-
-Tech: **React · TypeScript · REST APIs**
-
----
-
-### LeonGram
-Telegram-inspired messaging application with AI assistant.
-
-Tech: **React · FastAPI · AI integrations**
-
----
-
-### ChatHut
-Web client for multiple messengers (Telegram / WhatsApp) with AI assistant.
-
-Built during **nFactorial Incubator** and presented at Demo Day.
-
----
-
 ## Tech Stack
 
 **Languages**  
@@ -72,13 +43,6 @@ REST APIs · Webhooks · CRM integrations (AmoCRM, Pipedrive, HubSpot)
 
 **Tools**  
 Git · Docker · Twilio · ClickUp · Google Workspace
-
----
-
-## Achievements
-
-- **nFactorial Hackathon — 3rd place** (Chevron × Satpayev University × nFactorial)
-- **Altyn Belgi** — highest academic distinction in Kazakhstan
 
 ---
 
