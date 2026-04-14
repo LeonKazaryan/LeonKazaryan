@@ -11,8 +11,9 @@ I build modern web and mobile applications and enjoy experimenting with **AI-ass
 - **Top 20% of the class** · State Grant holder
 - **Front-End & Mobile Developer at Salesautomators**
 - React / TypeScript / React Native developer
-- Hackathon **1st place — HackNU 2026**
-- Hackathon **3rd place — nFactorial Incubator**
+- Case Championship **1st place — Business Cup 2026 (AIESEC & Zimran)**
+- Hackathon **1st place — HackNU 2026 (KTZ & Higgsfield)**
+- Hackathon **3rd place — nFactorial Incubator (Chevron & Satpayev University)**
 
 ---
 
